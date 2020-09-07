@@ -1,6 +1,6 @@
-### Hi there, I'm Ravi Maddi 👋
+### Hi there, I'm Ravi Maddi 👋 :smile:[![HitCount](http://hits.dwyl.com/ravimaddi/ravimaddi.svg)](http://hits.dwyl.com/ravimaddi/ravimaddi)
 
-## I'm a Developer and Pacifist!
+A Polyglot Developer with a core foucs on web and mobile application development.
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love watching movies and outdoor activities.
