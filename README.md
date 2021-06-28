@@ -1,4 +1,4 @@
-### Hi there, I'm Ravi Maddi 👋 :smile:[![HitCount](http://hits.dwyl.com/ravimaddi/ravimaddi.svg)](http://hits.dwyl.com/ravimaddi/ravimaddi)
+### Hi there, I'm Ravi Maddi 👋 :smile:
 
 A Polyglot Developer with a core foucs on web and mobile application development.
 
