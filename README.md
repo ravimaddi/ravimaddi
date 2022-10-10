@@ -1,6 +1,6 @@
 ### Hi there,👋 this is Ravi Maddi :smile:
 
-A Polyglot Developer with a core foucs on web and mobile application development. I enjoy coding and love to build high performant scalable software systems.
+A Polyglot Developer with a core focus on web and mobile application development. I enjoy coding and love to build high performant scalable software systems.
 
 ### Connect with me:
 
